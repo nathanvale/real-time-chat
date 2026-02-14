@@ -1,0 +1,2 @@
+# Run fast, local formatting and linting on changed files
+bun run lint-staged
